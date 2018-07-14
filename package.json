@@ -1,0 +1,18 @@
+{
+  "name": "multiplayer-pong",
+  "version": "1.0.0",
+  "description": "A multiplayer pong game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aakash Kc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  }
+}
